@@ -10,5 +10,7 @@ Install Packages With `npm install`
 Run With node index.js  
 # Bot Setup 
 In `index.js` Place Your Token In And If You Want A New Prefix. Normal One Is `r-`  
-
+# Version
+RBXBot Hosted One Is On Version 4
+RBXBot OpenSource Is On Version 3
 # Enjoy The Bot
